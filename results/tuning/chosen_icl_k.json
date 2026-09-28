@@ -1,0 +1,20 @@
+{
+  "wall_robot": {
+    "chosen_k": 20,
+    "best_mean_k": 20,
+    "chosen_val_macro_f1": 0.9144514604079461,
+    "best_val_macro_f1": 0.9144514604079461
+  },
+  "cardiotocography": {
+    "chosen_k": 5,
+    "best_mean_k": 10,
+    "chosen_val_macro_f1": 0.8307092024255363,
+    "best_val_macro_f1": 0.8356428049229561
+  },
+  "covertype": {
+    "chosen_k": 20,
+    "best_mean_k": 40,
+    "chosen_val_macro_f1": 0.6933581560673455,
+    "best_val_macro_f1": 0.6990680003248293
+  }
+}

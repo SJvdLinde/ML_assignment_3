@@ -1,0 +1,7 @@
+Dataset,Measure,Mean difference (ICL - baseline),ICL wins,W,p,p (Holm),Significant
+Wall robot,Macro F1,-0.002,5/15,37.0,0.2078,0.6233,False
+Wall robot,Minority recall,0.006,8/15,44.5,0.3786,0.7572,False
+Cardiotocography,Macro F1,0.003,10/15,50.0,0.5995,0.7572,False
+Cardiotocography,Minority recall,0.025,10/15,30.0,0.0946,0.473,False
+Covertype,Macro F1,-0.03,1/15,1.0,0.0001,0.0007,True
+Covertype,Minority recall,-0.026,5/15,31.0,0.107,0.473,False

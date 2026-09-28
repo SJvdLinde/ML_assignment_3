@@ -1,0 +1,7 @@
+Dataset,Method,Hidden neurons,Weights,Epochs,Seconds
+Wall robot,Baseline,32.0,932,144,5.9
+Wall robot,ICL,27.2,889,3384,129.3
+Cardiotocography,Baseline,64.0,2058,151,4.3
+Cardiotocography,ICL,17.0,764,2802,35.8
+Covertype,Baseline,128.0,7815,155,53.4
+Covertype,ICL,42.9,2997,7051,613.9

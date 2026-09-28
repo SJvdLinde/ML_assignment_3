@@ -1,0 +1,7 @@
+Dataset,Method,Macro F1,Balanced accuracy,Minority recall,Accuracy
+Wall robot,Baseline,0.898 ± 0.010,0.896 ± 0.013,0.879 ± 0.023,0.905 ± 0.009
+Wall robot,ICL,0.895 ± 0.011,0.897 ± 0.012,0.886 ± 0.025,0.903 ± 0.008
+Cardiotocography,Baseline,0.802 ± 0.020,0.791 ± 0.023,0.720 ± 0.047,0.853 ± 0.015
+Cardiotocography,ICL,0.805 ± 0.027,0.800 ± 0.034,0.744 ± 0.062,0.852 ± 0.017
+Covertype,Baseline,0.689 ± 0.012,0.676 ± 0.016,0.499 ± 0.039,0.802 ± 0.008
+Covertype,ICL,0.660 ± 0.022,0.649 ± 0.025,0.473 ± 0.046,0.776 ± 0.008

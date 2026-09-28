@@ -1,0 +1,26 @@
+{
+  "wall_robot": {
+    "chosen_n_hidden": 32,
+    "one_se_rule_n_hidden": 256,
+    "overridden": true,
+    "best_mean_n_hidden": 256,
+    "chosen_val_macro_f1": 0.9141148926417136,
+    "best_val_macro_f1": 0.9252202028248318
+  },
+  "cardiotocography": {
+    "chosen_n_hidden": 64,
+    "one_se_rule_n_hidden": 64,
+    "overridden": false,
+    "best_mean_n_hidden": 512,
+    "chosen_val_macro_f1": 0.8255652808246186,
+    "best_val_macro_f1": 0.832072016692142
+  },
+  "covertype": {
+    "chosen_n_hidden": 128,
+    "one_se_rule_n_hidden": 128,
+    "overridden": false,
+    "best_mean_n_hidden": 256,
+    "chosen_val_macro_f1": 0.7166496570728595,
+    "best_val_macro_f1": 0.7215589497790529
+  }
+}

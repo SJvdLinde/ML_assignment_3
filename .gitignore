@@ -1,0 +1,11 @@
+# raw output of every run
+results/wall_robot/
+results/cardiotocography/
+results/covertype/
+results/logs/
+
+# python
+__pycache__/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
